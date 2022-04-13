@@ -1,5 +1,5 @@
 # its-tagbor
-a place to showcase my projects
+a place to share some highlights of my developer journey
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="300"/>
   <div id="badges">
