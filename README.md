@@ -49,6 +49,7 @@ a place to share some highlights of my developer journey
   <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
+
 ---
 
 ### :fire: My Stats :
