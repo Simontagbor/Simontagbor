@@ -18,6 +18,9 @@ a place to share some highlights of my developer journey
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+<div align="Center">
+Here is a totally random meme for you 🙃
+</div>
   <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." width="350">
 </div>
 
