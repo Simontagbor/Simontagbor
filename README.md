@@ -19,6 +19,7 @@ a place to share some highlights of my developer journey
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="Center">
+
 Here is a totally random meme for you 🙃
 
 
@@ -28,7 +29,7 @@ Here is a totally random meme for you 🙃
 
 ---
 
-### 👨‍💻: About Me :
+### 👨‍💻 About Me :
 
 - :telescope: I'm currently learning  UX/UI design and I'm deeply curious about transforming designs into code
 
