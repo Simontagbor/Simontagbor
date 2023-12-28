@@ -23,13 +23,13 @@
 #### In my free time, I love swimming and solving design challenges.
 ---
 
-### 🏗️ Favorite Projects:
+# 🏗️ Favorite Projects:
 #### [British Airways Job Simulation](https://github.com/Simontagbor/British_airways_data_science) for Data Science Role
 #### [DonorQuest]() - A website to encourage Voluntary Blood Donations
 #### [BraveGirls]() - A website to support victims of sexual violence
 ---
 
-### :hammer_and_wrench: Things I code with :
+# :hammer_and_wrench: Things I code with :
 <p>
    <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
   <img alt="juptyer notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
@@ -48,13 +48,19 @@
 </p>
 
 ---
+# :writing_hand: Blog Posts :
+<div id="header" align="center">
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+</div>
+ <a href="https://medium.com/@simontagbor/do-you-know-what-really-happens-when-you-hit-enter-after-typing-a-website-address-5e5fcac6cfee">
+    What Happens When You Enter Google.com And Hit Enter
+ </a>
 
-### :fire: My Stats :
+---
+
+# :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Simontagbor&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Simontagbor&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
-### :writing_hand: Blog Posts :
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
