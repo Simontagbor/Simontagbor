@@ -25,8 +25,8 @@
 
 # 🏗️ Favorite Projects:
 ### [British Airways Job Simulation](https://github.com/Simontagbor/British_airways_data_science) for Data Science Role
-### [DonorQuest]() - A website to encourage Voluntary Blood Donations
-### [BraveGirls]() - A website to support victims of sexual violence
+### [DonorQuest](https://github.com/Simontagbor/DonorQuest) - A website to encourage Voluntary Blood Donations
+### [BraveGirls](https://github.com/Mwangii/BraveGirls) - A website to support victims of sexual violence
 ---
 
 # :hammer_and_wrench: Things I code with :
