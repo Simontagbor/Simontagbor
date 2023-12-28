@@ -1,5 +1,6 @@
-# its-tagbor
-a place to share some highlights of my developer journey
+<div id="header" align="center">
+<h1>Simon Gabriel Tagbor</h1>
+</div>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/PgLLtnqHts1woXeKpy/giphy.gif" width="300"/>
   <div id="badges">
@@ -9,56 +10,41 @@ a place to share some highlights of my developer journey
    <a href="https://twitter.com/clawd_johan">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
    </a>
-   <a href=https://www.behance.net/simontagbor>
-    <img src="https://img.shields.io/badge/Behance-blue?style=for-the-badge&logo=behance&logoColor=white" alt="Behance Badge"/>
-   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Simontagbor&style=flat-square&color=blue" alt=""/>
    <h1>
-  hey there
+  Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div align="Center">
 
-<!-- Here is a totally random meme for you 🙃
+### I'm a Fullstack Web Developer Curious About Data Science
+#### 👨‍🎓 I'm currently learning Software Engineering at ALX Africa  and I'm deeply curious about building end-to-end data solutions.
+#### In my free time, I love swimming and solving design challenges.
+---
 
-
-<div>
-  <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." />
-</div>
-
---- -->
-
-### 👨‍💻 About Me :
-
- :telescope: I'm currently learning  UX/UI design and I'm deeply curious about transforming designs into code
-
- :seedling: Currently exploring JavaScript, React and Next.js.
-
- :zap: In my free time, I love swimming and solving design challenges.
-
- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-SimonTagbor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tagbor-simon-gabriel)
+### 🏗️ Favorite Projects:
+#### [British Airways Job Simulation](https://github.com/Simontagbor/British_airways_data_science) for Data Science Role
+#### [DonorQuest]() - A website to encourage Voluntary Blood Donations
+#### [BraveGirls]() - A website to support victims of sexual violence
 ---
 
 ### :hammer_and_wrench: Things I code with :
 <p>
+   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="juptyer notebook" src="https://img.shields.io/badge/-Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="rstudio" src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 <p>
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 <p>
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=white" />
 </p>
 
 ---
