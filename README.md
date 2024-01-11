@@ -49,20 +49,24 @@
 
 ---
 # :writing_hand: Blog Posts :
+<a href="https://simontagbor.github.io/BritishAirways-data-science/">
 <div id="header" align="center">
 <img src="https://private-user-images.githubusercontent.com/62922135/293207049-5a8ec528-6c48-4149-bf02-0cfd4685d91c.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NDYxODMsIm5iZiI6MTcwNDk0NTg4MywicGF0aCI6Ii82MjkyMjEzNS8yOTMyMDcwNDktNWE4ZWM1MjgtNmM0OC00MTQ5LWJmMDItMGNmZDQ2ODVkOTFjLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDA0MDQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkyNzU2MTQ1NGU3NDI5YmJkOTc4MWY0ODc4OTAxZDQ2NmQ3YTZjMmRkNjIxM2Y2NTc0MGY0MjQyOTM3MTU2MmImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.9_zDNPMTAt9IfEIu0COqSGlPOeGENfITnqqeqxO2mHc" width="350"/>
 </div>
-<a href="https://simontagbor.github.io/BritishAirways-data-science/">Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</a>
+</a>
+<h5>Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</h5></a>
+<a href="https://simontagbor.github.io/BritishAirways-data-science/">
 <div id="header" align="center">
-<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+<img src="https://private-user-images.githubusercontent.com/62922135/293208548-3b6a8d7c-21b4-4425-84f0-9e63678a1b69.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5NDYxODMsIm5iZiI6MTcwNDk0NTg4MywicGF0aCI6Ii82MjkyMjEzNS8yOTMyMDg1NDgtM2I2YThkN2MtMjFiNC00NDI1LTg0ZjAtOWU2MzY3OGExYjY5LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDA0MDQ0M1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMyMjQ4OTMyNGU2NzQ1NThkYzI5NDI4OTJkNDdjMWVmNzAwMmM5Mzk0NTBiYzcyMzg3MzQ1ZmRmZmQxNWZmNzAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QyPrcPrvtX1Ula-I76hzqBv78mFsVemhcb6UxbxbgUo" width="350"/>
 </div>
-<a href="https://simontagbor.github.io/BritishAirways-data-science/">What I discovered about the buying behaviour of British Airways Customers using predictive ML models</a>
-<div id="header" align="center">
-<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
-</div>
+</a>
+<h5>What I discovered about the buying behaviour of British Airways Customers using predictive ML models.</h5>
  <a href="https://medium.com/@simontagbor/do-you-know-what-really-happens-when-you-hit-enter-after-typing-a-website-address-5e5fcac6cfee">
-    What Happens When You Enter Google.com And Hit Enter
- </a>
+<div id="header" align="center">
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+</div>
+</a>
+<h5>What Happens When You Enter Google.com And Hit Enter</h5>
 
 ---
 
