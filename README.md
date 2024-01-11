@@ -52,6 +52,14 @@
 <div id="header" align="center">
 <img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
 </div>
+<a href="https://simontagbor.github.io/BritishAirways-data-science/">Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</a>
+<div id="header" align="center">
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+</div>
+<a href="https://simontagbor.github.io/BritishAirways-data-science/">What I discovered about the buying behaviour of British Airways Customers using predictive ML models</a>
+<div id="header" align="center">
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+</div>
  <a href="https://medium.com/@simontagbor/do-you-know-what-really-happens-when-you-hit-enter-after-typing-a-website-address-5e5fcac6cfee">
     What Happens When You Enter Google.com And Hit Enter
  </a>
