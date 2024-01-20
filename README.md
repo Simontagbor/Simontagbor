@@ -51,13 +51,13 @@
 # :writing_hand: Blog Posts :
 <a href="https://simontagbor.github.io/BritishAirways-data-science/">
 <div id="header" align="center">
-![image](https://github.com/Simontagbor/Simontagbor/assets/62922135/80487ef2-34bd-46cc-9768-c651416ca0c6)
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/80487ef2-34bd-46cc-9768-c651416ca0c6" width="350"/>
 </div>
 </a>
-<h5>Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</h5></a>
+<h5 width="350">Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</h5></a>
 <a href="https://simontagbor.github.io/BritishAirways-data-science/">
-<div id="header" align="center">
-![image](https://github.com/Simontagbor/Simontagbor/assets/62922135/3a496890-e038-4a4a-b4de-8e1a957cd919)
+<div id="header" align="center" width="355">
+<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/3a496890-e038-4a4a-b4de-8e1a957cd919" width="350"/>
 </div>
 </a>
 <h5>What I discovered about the buying behaviour of British Airways Customers using predictive ML models.</h5>
