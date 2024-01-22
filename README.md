@@ -55,7 +55,7 @@
 </div>
 </a>
 <h4 width="350">Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</h4></a>
-<a href="https://simontagbor.github.io/BritishAirways-data-science/">
+<a href="https://simontagbor.github.io/BritishAirways-predictive-ML/">
 <div id="header" align="center" width="355">
 <img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/3a496890-e038-4a4a-b4de-8e1a957cd919" width="350"/>
 </div>
