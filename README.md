@@ -24,9 +24,9 @@
 ---
 
 # 🏗️ Favorite Projects:
-### [British Airways Job Simulation](https://simontagbor.github.io/BritishAirways-data-science/) for Junior Data Scientist Role
-### [DonorQuest](https://github.com/Simontagbor/DonorQuest) - A website to encourage Voluntary Blood Donations
-### [BraveGirls](https://github.com/Mwangii/BraveGirls) - A website to support victims of sexual violence
+### [British Airways Job Simulation](https://simontagbor.github.io/BritishAirways-data-science/) - for Junior Data Scientist Role [ `Data Analytics`]
+### [TODO List Web App](https://github.com/Simontagbor/Steghub-DevOps-training/tree/main/Webstack_implementation_mern) - Implementing a MERN web stack for a Todo List App on AWS [`DevOps`]
+### [Supply Chain Inventory Optimization](https://simontagbor.github.io/supply-chain-demand-forecast/) - Demand forecasting and Inventory Planning using an additive regression model - Prophet [ `Data Analytics` ]
 ---
 
 # :hammer_and_wrench: Things I code with :
