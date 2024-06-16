@@ -19,7 +19,7 @@
 <div align="Center">
 
 ### I'm a Fullstack Web Developer Curious About Data Science
-#### 👨‍🎓 I'm currently learning Software Engineering at ALX Africa  and I'm deeply curious about building end-to-end data solutions.
+#### 👨‍🎓 I'm a recent Software Engineering school graduate from ALX Africa  and I'm deeply curious about building end-to-end data solutions.
 #### In my free time, I love swimming and solving design challenges.
 ---
 
