@@ -19,14 +19,14 @@
 <div align="Center">
 
 ### I'm a Fullstack Web Developer Curious About Data Science
-#### 👨‍🎓 I'm a recent Software Engineering school graduate from ALX Africa  and I'm deeply curious about building end-to-end data solutions.
+#### 👨‍🎓 I'm a recent Software Engineering school graduate from ALX Africa  and I'm deeply curious about building end-to-end solutions.
 #### In my free time, I love swimming and solving design challenges.
 ---
 
 # 🏗️ Favorite Projects:
-### [British Airways Job Simulation](https://simontagbor.github.io/BritishAirways-data-science/) - for Junior Data Scientist Role [ `Data Analytics`]
-### [TODO List Web App](https://github.com/Simontagbor/Steghub-DevOps-training/tree/main/Webstack_implementation_mern) - Implementing a MERN web stack for a Todo List App on AWS [`DevOps`]
-### [Supply Chain Inventory Optimization](https://simontagbor.github.io/supply-chain-demand-forecast/) - Demand forecasting and Inventory Planning using an additive regression model - Prophet [ `Data Analytics` ]
+### [Lyft Backend Architecture Redesign](https://github.com/Simontagbor/forage-lyft-starter-repo) - for Junior Backend Developer Role [ `Software Architecture Design`, `Unittesting`]
+### [DevOps tooling website ](https://github.com/Simontagbor/Steghub-DevOps-training/tree/main/Webstack_implementation_mern) - Implementing a LAMP web architecture on AWS [`DevOps`]
+### [Observing Anomalie detection results using Google Earth Engine f](https://code.earthengine.google.com/3e9de3995aff08c870ccae4b926cbe80?hideCode=true) - [ `Data Analytics` ]
 ---
 
 # :hammer_and_wrench: Things I code with :
@@ -49,24 +49,26 @@
 
 ---
 # :writing_hand: Blog Posts :
-<a href="https://simontagbor.github.io/BritishAirways-data-science/">
+<h3 width="650">Detecting Election Result Irregularities in Kaduna(Nigeria) Using Geospatial Analysis </h3>
+<a href="https://medium.com/@simontagbor/uncovering-election-result-irregularities-using-geospatial-analysis-fec7f4112ddd">
 <div id="header" align="center">
-<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/80487ef2-34bd-46cc-9768-c651416ca0c6" width="350"/>
+<img src="https://miro.medium.com/v2/resize:fit:2730/format:webp/1*w9OA1L9TQHbrbsJgUn8Yfw.png" width="100%"/>
 </div>
 </a>
-<h4 width="350">Understanding the Flight Experience of British Airways through the lens of 1000 online Reviews</h4></a>
-<a href="https://simontagbor.github.io/BritishAirways-predictive-ML/">
+
+<h3 width="650">Designing a Software Architecture For a Predictive Maintenance on Farm Equipment.</h3>
+<a href="https://medium.com/@simontagbor/exploring-software-architecture-in-mlops-19c6c67c4f5a">
 <div id="header" align="center" width="355">
-<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/3a496890-e038-4a4a-b4de-8e1a957cd919" width="350"/>
+<img src="https://miro.medium.com/v2/resize:fit:4186/format:webp/1*yoSDjJEl9V7cyA-OT4OeCA.jpeg" width="100%"/>
 </div>
 </a>
-<h4>What I discovered about the buying behaviour of British Airways Customers using predictive ML models.</h4>
+<h3>What Happens When You Enter Google.com And Hit Enter</h3>
  <a href="https://medium.com/@simontagbor/do-you-know-what-really-happens-when-you-hit-enter-after-typing-a-website-address-5e5fcac6cfee">
 <div id="header" align="center">
-<img src="https://github.com/Simontagbor/Simontagbor/assets/62922135/70305a42-ab27-4293-b616-b75e6574160e" width="350"/>
+<img src="https://i.insider.com/65017f551afe8f0019e95211" width="100%"/>
 </div>
 </a>
-<h4>What Happens When You Enter Google.com And Hit Enter</h4>
+
 
 ---
 
